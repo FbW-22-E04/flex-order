@@ -22,7 +22,7 @@ body {
 article.item {
   border: 6px solid rebeccapurple;
   flex: 2;
-  /* padding: 3.5em; */
+  padding: 3.5em;
 }
 
 .main-article {
